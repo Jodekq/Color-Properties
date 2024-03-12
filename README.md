@@ -24,4 +24,4 @@ E.g.: red (danger)
 ### For each of those colors, you can create tints in this order:
 
 E.g. 
-Blue900 would be a 90 percent tint of your color (Blue)
+Primary900 would be a 90 percent tint of your color (Primary)
