@@ -1,5 +1,5 @@
 # Color-Properties
-Template for your color properties
+Template for my color properties
 
 ## How it works
 
